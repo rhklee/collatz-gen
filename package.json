@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "",
   "repository": "rhklee/collatz-gen",
-  "main": "index.js",
+  "main": "./lib/index.js",
+  "bin": {
+    "collatz": "./bin/collatz.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
