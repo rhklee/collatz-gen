@@ -1,7 +1,7 @@
 {
   "name": "@rhklee/collatz-gen",
   "version": "0.0.2",
-  "description": "",
+  "description": "Generate a collatz sequence given a positive integer.",
   "repository": "rhklee/collatz-gen",
   "main": "./lib/index.js",
   "bin": {
