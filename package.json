@@ -2,8 +2,8 @@
   "name": "@rhklee/collatz-gen",
   "version": "0.0.1",
   "description": "",
+  "repository": "rhklee/collatz-gen",
   "main": "index.js",
-  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
